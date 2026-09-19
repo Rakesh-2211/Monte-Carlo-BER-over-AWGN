@@ -561,7 +561,7 @@ Together, these graphs provide a practical understanding of digital modulation p
 
 ## 👨‍💻 Author
 
-**Digital Communication / ECE Experiment**
+**Rakesh Karmakar**
 
 Implemented using:
 
